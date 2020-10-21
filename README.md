@@ -27,3 +27,15 @@ Git gives  the opportunity not to be afraid, to make mistakes.
 ------------
 ## Front-End Basics
 ------------
+### 3. Intro to HTML & CSS
+- HTML/CSS
+    - In this part of the course, the discovery for me was CSS GRID, a cool technology that allows you to adapt and flexibly adjust the page layout. 
+    Also CSS TRANSITIONNow I understand how animations work and run!
+
+    ![Screenshot Intro_html-css](task_intro_html_css/intro_html_css.png)
+    ---
+    ![Screenshot Html_codeacademy](task_intro_html_css/html_codeacademy.png)
+    ---
+    ![Screenshot Css_codeacademy](task_intro_html_css/css_codeacademy.png)
+
+### 4. Responsive Web Design
