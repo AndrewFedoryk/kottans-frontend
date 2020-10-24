@@ -43,3 +43,10 @@ Git gives  the opportunity not to be afraid, to make mistakes.
 ------------
 
 #### 4. Responsive Web Design
+- Web Design
+    - Improved knowledge of used dev tools. Familiar with responsive markup. Learned about the existence of responsive patterns.
+        [Screenshot Responsive Web Design on Udacity](task_responsive_web_design/resp_web_des_uda.png)
+    - Flexbox froggy, a great thing that helped to consolidate and understand the management and placement of boxes.
+        [Screenshot Flexbox Froggy game](task_responsive_web_design/flexbox-froggy.png)
+      But still have to google almost every definition. :dizzy_face:
+
